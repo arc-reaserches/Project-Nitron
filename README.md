@@ -14,6 +14,8 @@ Nitron doesn't work like a standard language model. It operates as a **Librarian
 * **The Living Codebase**: It features a temporary workspace where it autonomously writes, tests, and verifies its own tools before integrating them into its core memory.
 * **Scientific Specialization**: It is engineered specifically for fields that require 100% accuracy, like Quantum Simulation and Cosmology.
 
+**You can check the code for nitron in** /Code
+
 ## Supporting the Journey
 This project is developed independently with a goal to master AI/ML and Quantum Foundations by age 18. If you believe in democratizing high-level reasoning or just want to support a young dev building the future, contributions are deeply appreciated.
 
