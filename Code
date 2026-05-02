@@ -1,7 +1,6 @@
-This is a part of the code of nitron.
----
-# Code
-```python
+#This is a part of the code of nitron
+
+
 import os
 import json
 import subprocess
@@ -77,4 +76,3 @@ class Nitron:
 
 model = Nitron("metadata_vault.json")
 print("Nitron Framework Active")
-```
